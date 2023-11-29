@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Practice Project 3\StudentDataSortAndSearch\StudentDataSortAndSearch\bin\Debug\StudentDataSortAndSearch.exe.config
+C:\Users\user\Desktop\Practice Project 3\StudentDataSortAndSearch\StudentDataSortAndSearch\bin\Debug\StudentDataSortAndSearch.exe
+C:\Users\user\Desktop\Practice Project 3\StudentDataSortAndSearch\StudentDataSortAndSearch\bin\Debug\StudentDataSortAndSearch.pdb
+C:\Users\user\Desktop\Practice Project 3\StudentDataSortAndSearch\StudentDataSortAndSearch\obj\Debug\StudentDataSortAndSearch.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Practice Project 3\StudentDataSortAndSearch\StudentDataSortAndSearch\obj\Debug\StudentDataSortAndSearch.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Practice Project 3\StudentDataSortAndSearch\StudentDataSortAndSearch\obj\Debug\StudentDataSortAndSearch.exe
+C:\Users\user\Desktop\Practice Project 3\StudentDataSortAndSearch\StudentDataSortAndSearch\obj\Debug\StudentDataSortAndSearch.pdb
